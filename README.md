@@ -1,3 +1,5 @@
+# VLSI-LAB-EXP-6
+
 # AIM: 
 To design and simulate the CMOS inverter and observe the DC and transient responses using cadence tool.
 
